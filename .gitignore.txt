@@ -1,0 +1,3 @@
+# Ignorar fotos
+*.png
+*.jpg
